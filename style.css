@@ -10,7 +10,8 @@ body {
   height: 100px;
   background-color: #343a40;
   }
-h1 {
+
+  h1 {
   margin-left: 200px;
   margin-right: 400px;
   display: inline-block;
@@ -28,6 +29,54 @@ p {
     height: 30px;
 }
 
- img {
-   height: 25%;
+#lil-dude {
+   height: 300px;
  }
+
+.first {
+ color: #343a40;
+ text-align: center;
+ padding-bottom: 100px;
+}
+
+a {
+ scroll-behavior: smooth;
+ text-decoration: none;
+ color:#FFF;
+}
+
+hr {
+ display: block;
+ height: 2px;
+ border: 0;
+ border-top: 3px solid;
+ margin-left: 610px;
+ margin-right: 610px;
+ padding-top: 0;
+}
+
+img {
+ display: inline-block;
+ height: 250px;
+ width: auto;
+ border-radius: 3%;
+ margin: 10px;
+}
+
+.second {
+ background-color: #1abc9c;
+ text-align: center;
+ padding-top: 5px;
+ padding-bottom: 50px;
+}
+
+h2 {
+ font-size: 50px;
+ padding-bottom: 0;
+}
+
+.float {
+ display: inline-block;
+ text-align: left;
+ width: 400px;
+}
