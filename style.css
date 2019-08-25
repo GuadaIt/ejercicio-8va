@@ -16,17 +16,24 @@ body {
   margin-right: 400px;
   display: inline-block;
 }
+
+p {
+  display: inline-block;
+  margin-right: 10px;
+  height: 30px;
+}
+
+a {
+  scroll-behavior: smooth;
+  text-decoration: none;
+  color:#FFF;
+ }
+
 .main {
   background-color: #1abc9c;
   text-align: center;
   padding-top: 50px;
   padding-bottom: 70px;
-}
-
-p {
-    display: inline-block;
-    margin-right: 10px;
-    height: 30px;
 }
 
 #lil-dude {
@@ -37,12 +44,6 @@ p {
  color: #343a40;
  text-align: center;
  padding-bottom: 100px;
-}
-
-a {
- scroll-behavior: smooth;
- text-decoration: none;
- color:#FFF;
 }
 
 hr {
