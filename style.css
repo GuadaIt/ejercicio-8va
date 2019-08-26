@@ -40,20 +40,15 @@ a {
    height: 300px;
  }
 
-.first {
+.second {
  color: #343a40;
  text-align: center;
  padding-bottom: 100px;
 }
 
 hr {
- display: block;
- height: 2px;
- border: 0;
  border-top: 3px solid;
- margin-left: 610px;
- margin-right: 610px;
- padding-top: 0;
+ width: 100px;
 }
 
 img {
@@ -64,7 +59,7 @@ img {
  margin: 10px;
 }
 
-.second {
+.third {
  background-color: #1abc9c;
  text-align: center;
  padding-top: 5px;
@@ -73,11 +68,10 @@ img {
 
 h2 {
  font-size: 50px;
- padding-bottom: 0;
+ 
 }
 
-.second p {
- display: inline-block;
+.third p {
  text-align: left;
  width: 400px;
 }
