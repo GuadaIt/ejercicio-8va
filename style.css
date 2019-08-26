@@ -68,10 +68,10 @@ img {
 
 h2 {
  font-size: 50px;
- 
-}
+ }
 
 .third p {
  text-align: left;
  width: 400px;
+ vertical-align: top;
 }
